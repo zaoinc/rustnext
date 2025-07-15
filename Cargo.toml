@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Your Name <your.email@example.com>"]
 description = "A modern, fast web framework for Rust"
 license = "MIT"
-repository = "https://github.com/sazalo101/rustnext"
+repository = "https://github.com/zaoinc/rustnext"
 keywords = ["web", "framework", "async", "http"]
 categories = ["web-programming::http-server"]
 

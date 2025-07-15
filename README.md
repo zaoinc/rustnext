@@ -62,7 +62,7 @@ rustnext/
 
 1.  **Clone the repository:**
     \`\`\`bash
-    git clone https://github.com/sazalo101/rustnext.git
+    git clone https://github.com/zaoinc/rustnext.git
     cd rustnext
     \`\`\`
 
