@@ -1,0 +1,23 @@
+[server]
+host = "127.0.0.1"
+port = 3000
+workers = 4
+
+[database]
+url = "postgresql://user:password@localhost/mydb"
+max_connections = 10
+timeout = 30
+
+[auth]
+jwt_secret = "super-secret-jwt-key-for-rustnext"
+session_timeout = 3600
+bcrypt_cost = 12
+
+[features]
+compression = true
+metrics = false
+hot_reload = false
+logging = true
+
+[custom]
+blog_name = "My Awesome Rust Blog"
